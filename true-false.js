@@ -20,3 +20,10 @@ if (name) {
 else{
   console.log('condition is false')
 }
+
+if ('false') {
+  console.log('I am not false');
+}
+else{
+  console.log('I am false');
+}
